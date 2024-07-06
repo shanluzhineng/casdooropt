@@ -1,4 +1,4 @@
-module github.com/shanluzhineng/casdoor
+module github.com/shanluzhineng/casdooropt
 
 go 1.20
 
